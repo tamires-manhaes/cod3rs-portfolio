@@ -1,0 +1,7 @@
+POST https://tamires-dev.app.n8n.cloud/webhook-test/assistente-pessoal
+Content-Type: application/json
+
+{
+  "chatId": "Tamires",
+  "mensagem": "Olá, como posso te ajudar?"
+}
